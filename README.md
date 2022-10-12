@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanAleksiev
-- 👀 I’m interested in video games dev and photography
+- 👀 I’m interested in photography
 - 🌱 I’m currently learning c#
 - 📫 How to reach me @DanAleksiev on instagram and @DanielAleksiev on facebook
 
