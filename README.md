@@ -2,9 +2,8 @@
   <p>Hi, I’m Dan<p/>
 </p>
 
-👋 Hi, I’m @DanAleksiev
-- 👀 I’m interested in photography
-- 🌱 I’m currently learning c#
+ I’m interested in photography
+🌱 I’m currently learning c#
 
 
 
