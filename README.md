@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @DanAleksiev
+<p align="center">
+  <p>Hi, I’m Dan<p/>
+</p>
+
+👋 Hi, I’m @DanAleksiev
 - 👀 I’m interested in photography
 - 🌱 I’m currently learning c#
 
