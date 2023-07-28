@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @DanAleksiev
 - 👀 I’m interested in photography
 - 🌱 I’m currently learning c#
-- 📫 How to reach me @DanAleksiev on instagram and @DanielAleksiev on facebook
-- 
+
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-aleksiev-48080618a/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danaleksiev/)
 - 
