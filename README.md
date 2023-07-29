@@ -2,9 +2,8 @@
   <p>Hi, I’m Dan<p/>
 </p>
 
- I’m interested in photography
-🌱 I’m currently learning c#
 
+I’m interested in photography
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-aleksiev-48080618a/)
