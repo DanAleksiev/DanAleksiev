@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <p>Hi, I’m Dan<p/>
 </p>
 
