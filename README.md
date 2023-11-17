@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I’m Dan</h1>
-<p>A .net developerer from Bulgaria based in London<p/>
+<header>
+  <h1 align="center">Hi, I’m Dan</h1>
+  <p>A .net developerer from Bulgaria based in London<p/>
+<header/>
+
 ###
 
 <div align="center">
